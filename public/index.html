@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Shared Windowsill</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      body { margin: 0; font-family: system-ui, sans-serif; background: #111; color: #eee; }
+      .hud { position: fixed; left: 12px; top: 12px; background: rgba(0,0,0,0.5); padding: 10px 12px; border-radius: 10px; }
+      .hint { opacity: 0.8; font-size: 12px; margin-top: 6px; line-height: 1.3; }
+      .log { margin-top: 6px; font-size: 12px; opacity: 0.9; }
+      canvas { display: block; }
+    </style>
+  </head>
+  <body>
+    <div class="hud">
+      <div><b>Shared Windowsill</b></div>
+      <div class="hint">
+        Click a pot to plant.<br/>
+        Press <b>P</b> then click to plant.<br/>
+        Press <b>W</b> then click to water.<br/>
+        Press <b>C</b> then click to clear.
+      </div>
+      <div class="log" id="log">Connecting…</div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.min.js"></script>
+    <script src="sketch.js"></script>
+  </body>
+</html>

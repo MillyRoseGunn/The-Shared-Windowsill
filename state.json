@@ -1,0 +1,195 @@
+{
+  "lastTick": 1770218852023,
+  "pots": [
+    {
+      "id": 0,
+      "seedType": null,
+      "plantedAt": null,
+      "growth": 0,
+      "water": 0,
+      "status": "empty"
+    },
+    {
+      "id": 1,
+      "seedType": null,
+      "plantedAt": null,
+      "growth": 0,
+      "water": 0,
+      "status": "empty"
+    },
+    {
+      "id": 2,
+      "seedType": "fern",
+      "plantedAt": 1770216240949,
+      "growth": 0.3649999999999998,
+      "water": 0,
+      "status": "withered",
+      "name": "PlantMan",
+      "caretaker": "Milly",
+      "lastWateredAt": 1770217027144
+    },
+    {
+      "id": 3,
+      "seedType": "fern",
+      "plantedAt": 1770136903563,
+      "growth": 0,
+      "water": 0,
+      "status": "withered"
+    },
+    {
+      "id": 4,
+      "seedType": "fern",
+      "plantedAt": 1770216740465,
+      "growth": 0.355,
+      "water": 0,
+      "status": "withered",
+      "name": "bob",
+      "caretaker": "bob",
+      "lastWateredAt": 1770216740465
+    },
+    {
+      "id": 5,
+      "seedType": null,
+      "plantedAt": null,
+      "growth": 0,
+      "water": 0,
+      "status": "empty"
+    },
+    {
+      "id": 6,
+      "seedType": null,
+      "plantedAt": null,
+      "growth": 0,
+      "water": 0,
+      "status": "empty"
+    },
+    {
+      "id": 7,
+      "seedType": null,
+      "plantedAt": null,
+      "growth": 0,
+      "water": 0,
+      "status": "empty"
+    },
+    {
+      "id": 8,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    },
+    {
+      "id": 9,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    },
+    {
+      "id": 10,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    },
+    {
+      "id": 11,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    },
+    {
+      "id": 12,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    },
+    {
+      "id": 13,
+      "seedType": "fern",
+      "status": "withered",
+      "growth": 0.355,
+      "plantedAt": 1770216737493,
+      "lastWateredAt": 1770216737493,
+      "name": "bob",
+      "caretaker": "bob"
+    },
+    {
+      "id": 14,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    },
+    {
+      "id": 15,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    },
+    {
+      "id": 16,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    },
+    {
+      "id": 17,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    },
+    {
+      "id": 18,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    },
+    {
+      "id": 19,
+      "seedType": null,
+      "status": "empty",
+      "growth": 0,
+      "plantedAt": null,
+      "lastWateredAt": null,
+      "name": "",
+      "caretaker": ""
+    }
+  ]
+}
